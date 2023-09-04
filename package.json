@@ -1,0 +1,22 @@
+{
+  "name": "sample-nodejs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample-nodejs-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cemonal/sample-nodejs-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cemonal/sample-nodejs-api/issues"
+  },
+  "homepage": "https://github.com/cemonal/sample-nodejs-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
